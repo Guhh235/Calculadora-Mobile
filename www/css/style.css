@@ -1,0 +1,22 @@
+body{
+background-color: rgb(188, 188, 233);
+color: darkcyan;
+padding: 10px;
+text-decoration: none;
+margin: 15%;
+}
+
+.container{
+    display: flex;
+    place-items: center;
+
+
+}
+
+.h1{
+    text-size-adjust: 20px;
+}
+
+.container{
+    text-size-adjust: 40px;
+}
